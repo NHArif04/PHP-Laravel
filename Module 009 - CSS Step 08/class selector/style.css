@@ -1,0 +1,9 @@
+.class-style-green{
+    color: green;
+    font-size: 70px;
+}
+.class-style-red{
+    color: red;
+    font-size: 70px;
+}
+/* class selector name starts with dot(.)  */

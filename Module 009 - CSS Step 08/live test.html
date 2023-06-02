@@ -1,0 +1,36 @@
+@keyframes myAnimation {
+    0% {
+      transform: scale(0) rotate(0deg);
+    }
+    100% {
+      transform: scale(1) rotate(360deg);
+    }
+  }
+<!DOCTYPE html>
+    <html>
+    <head>
+      <title>CSS Keyframe Animation</title>
+      <style>
+        @keyframes animation {
+          0% {
+            transform: scale(0) rotate(0deg);
+          }
+          100% {
+            transform: scale(1) rotate(360deg);
+          }
+        }
+    
+        div {
+          width: 100px;
+          height: 100px;
+          background-color: red;
+          animation-name: animation;
+          animation-duration: 2s;
+          animation-fill-mode: forwards;
+        }
+      </style>
+    </head>
+    <body>
+      <div></div>
+    </body>
+</html>

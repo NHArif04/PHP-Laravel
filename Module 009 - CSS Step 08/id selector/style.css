@@ -1,0 +1,10 @@
+#color-shape{
+    color: green;
+    font-weight: bold;
+}
+#color-shape2{
+    color: blue;
+    font-weight: 800;
+}
+
+/* id selector starts with hash(#) */
