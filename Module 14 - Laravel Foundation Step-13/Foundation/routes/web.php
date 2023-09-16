@@ -22,3 +22,5 @@ Route::get('/',[DemoController::class, 'DemoAction']);
 
 
 Route::get('/info/{name}/{age}', [DemoController::class, 'GetInfo']);
+
+Route::get('/info', [DemoController::class, 'GetJSON']);
