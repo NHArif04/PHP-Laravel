@@ -49,7 +49,7 @@ git push -u origin master
 
 
 
-# ___PHP Fundamental___
+# ___<mark color="green">PHP Fundamental</mark>___
 * ## ***PHP Functions to print/display***
 ```php
 echo "return nothing";
@@ -68,5 +68,5 @@ Variables is container that can store information and starts with `$` sign. And 
 
 
 <br><br>
-# ___<div background-color="red">HTML & CSS</div>___
+# ___<mark color="green">HTML & CSS</mark>___
 * ## ******
