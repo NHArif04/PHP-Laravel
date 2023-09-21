@@ -82,7 +82,7 @@ Variables is container that can store information and starts with `$` sign. And 
             <li>Inline CSS:<br>
             <code>
             < p  style="color:green">Inline CSS < /p>
-            </code>
+    </code>
             </li><br>
             <li>Internal CSS:<br>
             <code>
@@ -91,12 +91,12 @@ Variables is container that can store information and starts with `$` sign. And 
                 color: orange;
             }
             < /style>
-            </code>
+    </code>
             </li><br>
             <li>External CSS:<br>
             <code> 
             < link rel="stylesheet" href="styles.css"/>
-            </code>
+    </code>
             </li><br>
         </ul>
 </div><br>
@@ -104,20 +104,16 @@ Variables is container that can store information and starts with `$` sign. And 
     There are five types of selector in CSS:
     <ul style="margin: 10px 0px; color:white; font-weight: italic">
     <li>Element Selector<br><code>h1{ font-size : large; }</code></li><br>
-    <li>ID Selector<br><code> #id-name{ color:green; }
-    </code>
+    <li>ID Selector<br><code> #id-name{ color:green; }</code>
     </li><br>
     <li>Class Selector<br>
-    <code>.class-name{ margin: 10px 20px; }
-    </code>
+    <code>.class-name{ margin: 10px 20px; }</code>
     </li><br>
     <li>Group Selector<br>
-    <code> p,div{ background-color:green; }
-    </code>
+    <code> p,div{ background-color:green; }</code>
     </li><br>
     <li>Universal Selector<br>
-    <code> *{ font-weight: bold; } 
-    </code>
+    <code> *{ font-weight: bold; } </code>
     </li><br>
     </ul><br>
 </div>
