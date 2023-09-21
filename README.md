@@ -80,23 +80,15 @@ Variables is container that can store information and starts with `$` sign. And 
     There are three ways to add CSS:
         <ul style="color:white">
             <li>Inline CSS:<br>
-            <code>
-            < p  style="color:green">Inline CSS < /p>
-    </code>
+            <code>< p  style="color:green">Inline CSS < /p></code>
             </li><br>
-            <li>Internal CSS:<br>
-            <code>
-            < style>
-            h3{
-                color: orange;
-            }
-            < /style>
-    </code>
+            <li>Internal CSS:<br><code>< style>
+h3{
+    color: orange;
+}
+< /style></code>
             </li><br>
-            <li>External CSS:<br>
-            <code> 
-            < link rel="stylesheet" href="styles.css"/>
-    </code>
+            <li>External CSS:<br><code>< link rel="stylesheet" href="styles.css"/></code>
             </li><br>
         </ul>
 </div><br>
