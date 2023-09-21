@@ -15,7 +15,7 @@ h2,h1{
 
 /* universal selector */
 *{
-  background-color: aqua;
+  color: black;
 }
 
 /* id selector */
@@ -38,3 +38,72 @@ h2,h1{
     animation-duration: 2s;
   }
   
+
+  #background-property{
+    background-color: aqua;
+    background-image: url("path/picture.extention");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+p{
+  border-style: none;
+  border-style: dotted;
+  border-style: dashed;
+  border-style: double;
+  border-style: groove;
+  border-style: hidden;
+  border-style: inherit;
+  border-style: initial;
+  border-style: inset;
+  border-style: outset;
+  border-style: ridge;
+  border-style: solid;
+  border-style: unset;
+}
+
+.class-div{
+  height: 100px;
+  width: 100px;
+  background-color: green;
+  border-radius: 40px 1px 40px 1px;
+}
+
+.class-cursor-div{
+  cursor: pointer;
+  cursor: alias;
+  cursor: all-scroll;
+  cursor: auto;
+  cursor: copy;
+  cursor: crosshair;
+}
+
+p{
+  display: inline-block;
+}
+
+img{
+  float: right;
+}
+
+.class-font{
+  font-size: 60px;
+  font-weight: 900;
+  color: green;
+  font-style: italic;
+  font-family:'Courier New', Courier, monospace;
+}
+
+.btn{
+  background-color: aqua;
+  border-radius: 6px;
+  color: green;
+}
+
+.btn:hover{
+  background-color: green;
+  border-radius: 10px;
+  color: aqua;
+}
