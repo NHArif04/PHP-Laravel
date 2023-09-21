@@ -73,64 +73,59 @@ Variables is container that can store information and starts with `$` sign. And 
 
 <div style="margin:10px 0px">
 <div style="margin: 20px 40px; color:aqua; font-weight: italic">
-    Cascading Style Sheets is the language used for describing the presentation of Web pages, including colors, layout, fonts, and other stylist.
+Cascading Style Sheets is the language used for describing the presentation of Web pages, including colors, layout, fonts, and other stylist.
 </div><br>
 
 <div style="margin: 20px 40px; color:aquamarine; font-weight: italic">
-    There are three ways to add CSS:
-        <ul style="color:white">
-            <li>Inline CSS:<br>
-            <code>< p  style="color:green">Inline CSS < /p></code>
-            </li><br>
-            <li>Internal CSS:<br><code>< style>
+There are three ways to add CSS:
+<ul style="color:white">
+<li>Inline CSS:<br>
+<code>< p  style="color:green">Inline CSS < /p></code>
+</li><br>
+<li>Internal CSS:<br><code>< style>
 h3{
     color: orange;
 }
 < /style></code>
-            </li><br>
-            <li>External CSS:<br><code>< link rel="stylesheet" href="styles.css"/></code>
-            </li><br>
-        </ul>
+</li><br>
+<li>External CSS:<br><code>< link rel="stylesheet" href="styles.css"/></code></li><br>
+</ul>
 </div><br>
 <div style="margin: 20px 40px; color:aquamarine; font-weight: italic">
-    There are five types of selector in CSS:
-    <ul style="margin: 10px 0px; color:white; font-weight: italic">
-    <li>Element Selector<br><code>h1{ font-size : large; }</code></li><br>
-    <li>ID Selector<br><code> #id-name{ color:green; }</code>
-    </li><br>
-    <li>Class Selector<br>
-    <code>.class-name{ margin: 10px 20px; }</code>
-    </li><br>
-    <li>Group Selector<br>
-    <code> p,div{ background-color:green; }</code>
-    </li><br>
-    <li>Universal Selector<br>
-    <code> *{ font-weight: bold; } </code>
-    </li><br>
-    </ul><br>
+There are five types of selector in CSS:
+<ul style="margin: 10px 0px; color:white; font-weight: italic">
+<li>Element Selector<br><code>h1{ font-size : large; }</code></li><br>
+<li>ID Selector<br><code> #id-name{ color:green; }</code></li><br>
+<li>Class Selector<br>
+<code>.class-name{ margin: 10px 20px; }</code></li><br>
+<li>Group Selector<br>
+<code> p,div{ background-color:green; }</code></li><br>
+<li>Universal Selector<br>
+<code> *{ font-weight: bold; } </code></li><br>
+</ul><br>
 </div>
 <div style="margin: 20px 40px; color:aquamarine; font-weight: Bold">CSS properties:
 <ul style="margin: 20px 0px; color:white; font-weight: normal">
-    <li>CSS Background Properties:<br><code></code></li>
-    <li>CSS Border Properties:<br><code></code></li>
-    <li>CSS Border Radius:<br><code></code></li>
-    <li>CSS Display Properties:<br><code></code></li>
-    <li>CSS Cursor Properties:<br><code></code></li>
-    <li>CSS Float Properties:<br><code></code></li>
-    <li>CSS Fonts:<br><code></code></li>
-    <li>CSS Hover:<br><code></code></li>
-    <li>CSS Margin:<br><code></code></li>
-    <li>CSS Important:<br><code></code></li>
-    <li>CSS Line Height:<br><code></code></li>
-    <li>CSS Padding:<br><code></code></li>
-    <li>CSS Filter:<br><code></code></li>
-    <li>CSS Overflow:<br><code></code></li>
-    <li>CSS Position:<br><code></code></li>
-    <li>CSS Word Wrap:<br><code></code></li>
-    <li>CSS Justify Content:<br><code></code></li>
-    <li>CSS Text Decoration:<br><code></code></li>
-    <li>CSS Word and Letter Spacing:<br><code></code></li>
-    <li>CSS Variable:<br><code></code></li>
+<li>CSS Background Properties:<br><code></code></li>
+<li>CSS Border Properties:<br><code></code></li>
+<li>CSS Border Radius:<br><code></code></li>
+<li>CSS Display Properties:<br><code></code></li>
+<li>CSS Cursor Properties:<br><code></code></li>
+<li>CSS Float Properties:<br><code></code></li>
+<li>CSS Fonts:<br><code></code></li>
+<li>CSS Hover:<br><code></code></li>
+<li>CSS Margin:<br><code></code></li>
+<li>CSS Important:<br><code></code></li>
+<li>CSS Line Height:<br><code></code></li>
+<li>CSS Padding:<br><code></code></li>
+<li>CSS Filter:<br><code></code></li>
+<li>CSS Overflow:<br><code></code></li>
+<li>CSS Position:<br><code></code></li>
+<li>CSS Word Wrap:<br><code></code></li>
+<li>CSS Justify Content:<br><code></code></li>
+<li>CSS Text Decoration:<br><code></code></li>
+<li>CSS Word and Letter Spacing:<br><code></code></li>
+<li>CSS Variable:<br><code></code></li>
 </ul>
 </div>
 </div>
