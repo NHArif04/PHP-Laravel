@@ -1,0 +1,38 @@
+/* element selector */
+h6{
+  color: white;
+  font-size: medium;
+  margin: 1px 0;    /* top-bottom left-right */
+}
+
+/* group selector */
+h2,h1{
+  color: green;
+  font-size: medium;
+}
+
+/* universal selector */
+*{
+  background-color: aqua;
+}
+
+/* id selector */
+#id_selector{
+  color: brown;
+}
+
+
+@keyframes myAnimation {
+    0% {
+      transform: scale(0) rotate(0deg);
+    }
+    100% {
+      transform: scale(1) rotate(360deg);
+    }
+  }
+  
+  div {
+    animation-name: myAnimation;
+    animation-duration: 2s;
+  }
+  

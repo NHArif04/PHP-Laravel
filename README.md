@@ -64,3 +64,9 @@ var_dump();
 Variables is container that can store information and starts with `$` sign. And it's name starts with either letter or underscore `_` sign. There also can be number but not in start.
 - PHP variable can be declared in two ways:
 - `<?php $variable = value; ?>` or
+
+
+
+<br><br>
+# ___<div background-color="red">HTML & CSS</div>___
+* ## ******
